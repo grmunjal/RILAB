@@ -1,0 +1,44 @@
+
+	* Germination
+
+10 seeds per inbred were allowed to germinate in filter paper lined petri dishes placed in the growth chamber maintained at appropriate, highland or lowland, conditions. Successful germination was defined as the presence of a visibly protruding radicle from the seeds. Dishes were watered daily using spray bottles and data for germination was recorded. Seedlings were transplanted/sown to pots once most, if not all, dishes demonstrated near 100% germination.
+
+Comment- Seeds in some dishes establish fungi and need to be removed, germination status of these seeds was/should be checked before removal. Also, given the number of dishes to be handled it is easy to make a mistake in data collection if seeds are removed. Given these conditions, it makes more sense to count the number of 'not germinated' seeds and subtract that from the initial 10 (done easily in excel) in an effort to reduce error.
+
+
+	* Height
+
+Measured every 7 days using a ruler as the distance between the base of the plant (right above the soil line) and the apical meristem (the growing tip).
+
+Comment- Using the apical meristem as a reference in measuring height is desirable as other possible reference points can be seriously affected by multiple factors. Plants can be droopy, lodging, crowded by neighbors, etc among other things. Using the apical meristem provides consistency given that the collector is familiar with the architecture of the plant and the location of the apical meristem.
+
+
+	* Leaf Number
+
+Counted every 2 days as the number of fully extended leaves.
+
+Comment- This is an easy to measure trait but can be frustrating once the plants get big. Also, the first leaf on a large number of genotypes tends to wilt away pretty quickly. To make the process more efficient and the data more reliable, we marked the third leaf on all plants using a marker
+
+
+	* Leaf Length+Width
+
+Measured at harvest for a representative leaf (fully extended, mature) using a ruler.
+
+
+	* Dry Weight at harvest
+
+Measured after a week of drying following harvest measurement for above ground plant material. 
+
+
+	* Stomatal Density (BOTTLENECK when phenotyping at harvest)
+
+Measured at harvest for a section from the representative leaf (fully extended, mature). A square section was cut off from the leaf using scissors, placed on a microscopic slide (abaxial surface up), and covered using a cover slip. Pictures of the slide under the microscope were taken at 10X magnification. Serial number of pictures and matching genotypes were tabulated in excel.
+
+Comment- Once prepared, slides must be pictured relatively quickly; dessication of the sample reduces image quality. 
+
+Number of stomata on the abaxial surface was counted on the pictures using the counting tool on Adobe Photoshop. The best picture for each genotype, defined by the visibility of stomata, was first selected. The picture was then cropped to a 5 X 7 inch section at 300 ppi. In cropping the pictures, the first column of stomata was aligned to the left/right edge of the cropping area to maintain consistency of protocol across genotypes.
+
+Comment-  The number of stomata is easily counted, though time consuming, using the counter tool; the tool drops a numbered marker at the point of 'clicking'. A 'counted pictures should be saved as a psd file if one wishes to come back to the image and resume counting from where they left off (eg: if you leave counting at 38, the counter tool starts counting at 1 when you return to the file if it's a jpg and 39 if it's a psd).
+
+
+

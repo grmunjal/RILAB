@@ -1,0 +1,23 @@
+
+	* Growth Chamber Environment
+
+Highland Conditions:
+Lowland Conditions:
+
+
+
+	* Experimental Design and Setup
+
+10 seeds per inbred were allowed to germinate in filter paper lined petri dishes placed in the growth chamber maintained at appropriate, highland or lowland, conditions. Successful germination was defined as the presence of a visibly protruding radicle from the seeds. Dishes were watered daily using spray bottles and data for germination was recorded. Seedlings were transplanted/sown to pots once most, if not all, dishes demonstrated near 100% germination.
+
+The experiment from that point on was setup as a completely randomized design with 2 replicates. Two healthy seedlings from each petri dish were sown to randomly assigned pots in the growth chamber. The order of randomization was the same under the two experimental runs (highland and lowland). That is to say, if genotype "a" was assigned to pots 1 and 156 in the first/highland run then it was assigned to the same pot numbers in the second/lowland run.
+
+
+
+	* Watering
+
+All pots were watered daily using watering cans. Water was added directly to each pot when the plants were at early growth stages. Once all plants demonstrated roots growing out of the bottom of the pots (pots were nested in trays, 15 pots per tray), water was added to the trays instead of the pots.
+
+
+
+
